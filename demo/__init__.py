@@ -1,0 +1,1 @@
+"""AsloMatica synthetic demonstration package."""
