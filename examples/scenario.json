@@ -1,0 +1,13 @@
+{
+  "question": "Should a fictional local studio announce a weekend workshop?",
+  "candidate_action": "Draft a workshop announcement for human review, without publishing it.",
+  "sources": [
+    {"id": "DOC-01", "kind": "official_document", "description": "Fictional studio-approved workshop plan (synthetic)"},
+    {"id": "NOTE-02", "kind": "internal_note", "description": "Unverified internal brainstorming note (synthetic)"}
+  ],
+  "claims": [
+    {"text": "A workshop is planned for Saturday.", "source_ids": ["DOC-01"]},
+    {"text": "The workshop has 100 guaranteed participants.", "source_ids": ["NOTE-02"]}
+  ],
+  "human_approved": false
+}
